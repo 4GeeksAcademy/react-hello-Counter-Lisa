@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container{
+    height: 100px;
+
+}
+
+.image{
+    height: 50px;
+    width: 50px;
+    margin-left: 280px;
+}
